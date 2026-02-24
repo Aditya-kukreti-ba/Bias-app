@@ -6,11 +6,6 @@ A full-stack interactive dashboard for detecting and visualizing bias in AI risk
 
 ---
 
-## 📸 Preview
-
-![Bias Auditor Dashboard](https://bias-app.vercel.app/og-preview.png)
-
----
 
 ## ✨ Features
 
